@@ -1,0 +1,6 @@
+@LayeredArchitectureSimple_HostAddress = http://localhost:5037
+
+GET {{LayeredArchitectureSimple_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
